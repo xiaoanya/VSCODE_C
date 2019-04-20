@@ -11,5 +11,6 @@ void test(){
 int main(){
     // test();
     // getchar();
+    printf("helo");
     return 0;
 }

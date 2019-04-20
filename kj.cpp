@@ -9,7 +9,7 @@ void test(){
 }
 
 int main(){
-    // test();
-    // getchar();
+    test();
+    getchar();
     return 0;
 }

@@ -9,7 +9,8 @@ void test(){
 }
 
 int main(){
-    test();
-    getchar();
+    // test();
+    // getchar();
+    printf("helo");
     return 0;
 }
